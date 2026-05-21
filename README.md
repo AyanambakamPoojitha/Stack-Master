@@ -70,7 +70,7 @@ The push button uses Arduino's internal pull-up resistor configuration.
    * 1-dot alignment → 10 points
 4. After every successful stack, the game speed increases gradually.
 5. If the player completely misses the stack, the game ends.
-
+https://wokwi.com/projects/464416055593377793
 ---
 
 ## 🧠 Working Principle
